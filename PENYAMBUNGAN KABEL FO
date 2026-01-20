@@ -1,0 +1,24 @@
+
+ 
+Ada 3 cara utama:
+ 
+1. Penyambungan Fusi (permanen)
+ 
+- Upas, bersihkan, potong ujung serat rata
+- Sambung pakai fusion splicer, tutup dengan tabung penyusut
+- Uji dengan OTDR
+ 
+2. Penyambungan Mekanis (cepat/darurat)
+ 
+- Upas, bersihkan, potong serat
+- Masukin ke alat penyambung mekanis, klik hingga pas
+- Uji dengan alat ukur daya
+ 
+3. Konektor & Adaptor (dapat dilepas)
+ 
+- Pilih konektor sesuai kebutuhan (LC/SC/MPO)
+- Bersihkan konektor, colokkan hingga klik
+- Pastikan tidak ada kontaminasi
+ 
+Catatan: Kerjain di tempat bersih, jaga radius lentur kabel.
+ 
